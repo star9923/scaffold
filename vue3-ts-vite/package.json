@@ -1,0 +1,11 @@
+{
+  "name": "vue3-ts-vite",
+  "version": "1.0.0",
+  "description": "vue3-ts-vite脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
